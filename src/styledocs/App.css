@@ -1,0 +1,6 @@
+@media (max-width:1016px) {
+    .app {
+        min-width: 1016px;
+        /* width: 100%; */
+    }
+}
